@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "EPIC - Every Page Infinite Change",
+    "name": "EPIC: Every Page Infinite Change",
     "short_name": "EPIC",
     "description": "Donate by opening new tabs!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icons": {
         "128": "facebook_app.png"
     },
@@ -11,6 +11,5 @@
         "newtab": "main.html"
     },
     "permissions": ["storage", "chrome://favicon/"],
-    // "incognito": "split",
     "minimum_chrome_version": "22"
 }
