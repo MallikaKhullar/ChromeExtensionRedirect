@@ -1,12 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "EPIC: Every Page Infinite Change",
-    "short_name": "EPIC",
-    "description": "Donate by opening new tabs!",
+    "name": "Redirect New-Tab",
+    "short_name": "Redirect",
+    "description": "Redirect to your website on new-tab",
     "version": "0.0.2",
-    "icons": {
-        "128": "facebook_app.png"
-    },
     "chrome_url_overrides": {
         "newtab": "main.html"
     },
